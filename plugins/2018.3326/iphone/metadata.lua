@@ -3,8 +3,8 @@ local metadata =
 	plugin =
 	{
 		format = 'staticLibrary',
-		staticLibs = {},
-		frameworks = { 'GoogleAppMeasurement', 'GoogleAppMeasurementIdentitySupport', 'GoogleMobileAds', 'FBLPromises', 'GoogleUtilities', 'nanopb', "UserMessagingPlatform", "AppLovinMediationGoogleAdapter" },
+		staticLibs = {"GoogleAdapter"},
+		frameworks = { 'GoogleAppMeasurement', 'GoogleAppMeasurementIdentitySupport', 'GoogleMobileAds', 'PromisesObjC', 'GoogleUtilities', 'nanopb', "UserMessagingPlatform" },
 		frameworksOptional = {},
 	},
 }
