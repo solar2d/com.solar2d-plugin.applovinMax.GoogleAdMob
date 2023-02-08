@@ -5,7 +5,7 @@ Add following to your `build.settings` to use:
 {
     plugins = {
         "plugin.applovinMax.GoogleAdMob" = {
-            publisherId = "com.coronalabs",
+            publisherId = "com.solar2d",
         },
     },
 }
