@@ -4,5 +4,5 @@ repositories {
 }
 
 dependencies {
-    implementation("com.applovin.mediation:google-adapter:22.6.0.0")
+    implementation("com.applovin.mediation:google-adapter:23.1.0.0")
 }
